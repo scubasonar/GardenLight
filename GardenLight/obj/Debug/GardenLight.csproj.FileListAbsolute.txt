@@ -1,0 +1,76 @@
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\GardenLight\bin\Debug\le\FEZ Panda Application.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\GardenLight\bin\Debug\be\FEZ Panda Application.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\GardenLight\bin\Debug\le\FEZ Panda Application.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\GardenLight\bin\Debug\be\FEZ Panda Application.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\GardenLight\bin\Debug\FEZ Panda Application.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\GardenLight\bin\Debug\FEZ Panda Application.pdb
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\GardenLight\bin\Debug\le\FEZ Panda Application.pe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\GardenLight\bin\Debug\le\FEZ Panda Application.pdbx
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\GardenLight\bin\Debug\be\FEZ Panda Application.pe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\GardenLight\bin\Debug\be\FEZ Panda Application.pdbx
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\GardenLight\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\GardenLight\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\GardenLight\obj\Debug\GardenLight.Resources.resources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\GardenLight\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\GardenLight\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\GardenLight\obj\Debug\GardenLight.Resources.tinyresources
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\GardenLight\obj\Debug\TinyResGen.cache
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\GardenLight\obj\Debug\be\FEZ Panda Application.pe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\GardenLight\obj\Debug\be\FEZ Panda Application.pdbx
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\GardenLight\obj\Debug\le\FEZ Panda Application.pe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\GardenLight\obj\Debug\le\FEZ Panda Application.pdbx
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\GardenLight\obj\Debug\FEZ Panda Application.exe
+C:\Documents and Settings\Administrator\Local Settings\Application Data\Temporary Projects\GardenLight\obj\Debug\FEZ Panda Application.pdb
+E:\src\GardenLight\GardenLight\obj\Debug\ResolveAssemblyReference.cache
+E:\src\GardenLight\GardenLight\obj\Debug\TinyCLR_DebugReferences.cache
+E:\src\GardenLight\GardenLight\obj\Debug\GardenLight.Resources.resources
+E:\src\GardenLight\GardenLight\obj\Debug\GenerateResource.read.1.tlog
+E:\src\GardenLight\GardenLight\obj\Debug\GenerateResource.write.1.tlog
+E:\src\GardenLight\GardenLight\obj\Debug\GardenLight.Resources.tinyresources
+E:\src\GardenLight\GardenLight\obj\Debug\TinyResGen.cache
+E:\src\GardenLight\GardenLight\bin\Debug\le\GardenLight.exe
+E:\src\GardenLight\GardenLight\bin\Debug\be\GardenLight.exe
+E:\src\GardenLight\GardenLight\bin\Debug\le\GardenLight.pdb
+E:\src\GardenLight\GardenLight\bin\Debug\be\GardenLight.pdb
+E:\src\GardenLight\GardenLight\bin\Debug\GardenLight.exe
+E:\src\GardenLight\GardenLight\bin\Debug\GardenLight.pdb
+E:\src\GardenLight\GardenLight\bin\Debug\le\GardenLight.pe
+E:\src\GardenLight\GardenLight\bin\Debug\le\GardenLight.pdbx
+E:\src\GardenLight\GardenLight\bin\Debug\be\GardenLight.pe
+E:\src\GardenLight\GardenLight\bin\Debug\be\GardenLight.pdbx
+E:\src\GardenLight\GardenLight\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pe
+E:\src\GardenLight\GardenLight\bin\Debug\LE\GHIElectronics.NETMF.Hardware.USBizi.pe
+E:\src\GardenLight\GardenLight\bin\Debug\LE\GHIElectronics.NETMF.IO.pe
+E:\src\GardenLight\GardenLight\bin\Debug\LE\GHIElectronics.NETMF.Native.pe
+E:\src\GardenLight\GardenLight\bin\Debug\LE\GHIElectronics.NETMF.System.pe
+E:\src\GardenLight\GardenLight\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pe
+E:\src\GardenLight\GardenLight\bin\Debug\BE\GHIElectronics.NETMF.Hardware.USBizi.pe
+E:\src\GardenLight\GardenLight\bin\Debug\BE\GHIElectronics.NETMF.IO.pe
+E:\src\GardenLight\GardenLight\bin\Debug\BE\GHIElectronics.NETMF.Native.pe
+E:\src\GardenLight\GardenLight\bin\Debug\BE\GHIElectronics.NETMF.System.pe
+E:\src\GardenLight\GardenLight\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pdbx
+E:\src\GardenLight\GardenLight\bin\Debug\LE\GHIElectronics.NETMF.Hardware.USBizi.pdbx
+E:\src\GardenLight\GardenLight\bin\Debug\LE\GHIElectronics.NETMF.IO.pdbx
+E:\src\GardenLight\GardenLight\bin\Debug\LE\GHIElectronics.NETMF.Native.pdbx
+E:\src\GardenLight\GardenLight\bin\Debug\LE\GHIElectronics.NETMF.System.pdbx
+E:\src\GardenLight\GardenLight\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pdbx
+E:\src\GardenLight\GardenLight\bin\Debug\BE\GHIElectronics.NETMF.Hardware.USBizi.pdbx
+E:\src\GardenLight\GardenLight\bin\Debug\BE\GHIElectronics.NETMF.IO.pdbx
+E:\src\GardenLight\GardenLight\bin\Debug\BE\GHIElectronics.NETMF.Native.pdbx
+E:\src\GardenLight\GardenLight\bin\Debug\BE\GHIElectronics.NETMF.System.pdbx
+E:\src\GardenLight\GardenLight\bin\Debug\GHIElectronics.NETMF.Hardware.dll
+E:\src\GardenLight\GardenLight\bin\Debug\GHIElectronics.NETMF.Hardware.USBizi.dll
+E:\src\GardenLight\GardenLight\bin\Debug\GHIElectronics.NETMF.IO.dll
+E:\src\GardenLight\GardenLight\bin\Debug\GHIElectronics.NETMF.Native.dll
+E:\src\GardenLight\GardenLight\bin\Debug\GHIElectronics.NETMF.System.dll
+E:\src\GardenLight\GardenLight\bin\Debug\GHIElectronics.NETMF.Hardware.xml
+E:\src\GardenLight\GardenLight\bin\Debug\GHIElectronics.NETMF.Hardware.USBizi.xml
+E:\src\GardenLight\GardenLight\bin\Debug\GHIElectronics.NETMF.IO.xml
+E:\src\GardenLight\GardenLight\bin\Debug\GHIElectronics.NETMF.Native.xml
+E:\src\GardenLight\GardenLight\bin\Debug\GHIElectronics.NETMF.System.xml
+E:\src\GardenLight\GardenLight\obj\Debug\be\GardenLight.pe
+E:\src\GardenLight\GardenLight\obj\Debug\be\GardenLight.pdbx
+E:\src\GardenLight\GardenLight\obj\Debug\le\GardenLight.pe
+E:\src\GardenLight\GardenLight\obj\Debug\le\GardenLight.pdbx
+E:\src\GardenLight\GardenLight\obj\Debug\GardenLight.exe
+E:\src\GardenLight\GardenLight\obj\Debug\GardenLight.pdb
